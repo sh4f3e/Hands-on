@@ -1,0 +1,1 @@
+Hi, This is a workshop of for Git/Github Hands-on-Training programme.
